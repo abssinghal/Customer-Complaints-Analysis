@@ -1,4 +1,4 @@
-# 📊 Dynamic Parameter-Driven Tableau Dashboard
+# 📊 Customer Complaint Analysis Dashboard 
 
 <p align="center">
   <i>Architecting flexibility, scalability, and performance within a single interactive framework</i>
