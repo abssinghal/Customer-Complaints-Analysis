@@ -60,8 +60,30 @@ This dashboard demonstrates an approach focused on flexibility, scalability, and
 
 ---
 
+---
+
+## 📸 Dashboard Screenshots
+
+<p align="center">
+  <img src="images/dashboard_overview.png" alt="Dashboard Overview" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/metric_switching.png" alt="Metric Switching View" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/geographical_analysis.png" alt="Geographical Analysis View" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/trend_analysis.png" alt="Trend Analysis View" width="800"/>
+</p>
+
+
 ## 🔗 Interactive Dashboard
 
 The interactive dashboard is accessible at:  
 
-👉 **[Insert Dashboard Link]**
+👉 **[View Interactive Dashboard](https://public.tableau.com/app/profile/abhishek1385/viz/CustomerComplaints_17705463574950/CUSTOMERCOMPLAINTDASHBOARD?publish=yes)**
+
